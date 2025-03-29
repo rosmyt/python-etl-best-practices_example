@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Visual Studio Settings file
+.vscode/
+
+# python coverage library for test file cache
+.coverage
